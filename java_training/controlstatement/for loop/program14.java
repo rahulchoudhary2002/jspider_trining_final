@@ -1,4 +1,4 @@
-class program13
+class program14
 {
 	public static void main(String[] args)
 	{
@@ -6,10 +6,12 @@ class program13
 		for (int i=0; i<n; i++)
 		{
 			for (int j=0; j<n; j++){
-				if (i==j || i+j==n-1 || j==2)
+				if (    i==0 || j==0 || i==n-1 || j==n-1 || i==j || i+j==n-1  )
 				{
 					System.out.print("*" + " ");
-				}else {
+				}
+				
+				else {
 					System.out.print(" "+" ");
 				}
 			}
@@ -17,11 +19,3 @@ class program13
 		}			
 	}
 }
-
-/*
-*       *
-  *   *
-    *
-  *   *
-*       *
-   */
