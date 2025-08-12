@@ -1,0 +1,2 @@
+find the sum of the array with of the corner of the array and 
+find except corner

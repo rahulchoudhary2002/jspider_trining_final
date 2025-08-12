@@ -21,7 +21,7 @@ class program5
 		{
 			for (int j=0; j<=num; j++)
 			{
-				if (i==0 ||  j==0 || i==num-1 || j=num-1){
+				if (i==0 ||  j==0 || i+j==){
 				System.out.print("*" + " ");
 				}
 				else
