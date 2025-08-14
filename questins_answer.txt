@@ -1,0 +1,22 @@
+JDk=>java development kit.
+it is a application/software.
+jdk contains development tools.
+these tools are needed to bulid java program.
+development tools internally contains javac-compiler.
+compiler is also a application which converts source code to byte-code.
+jdk internally contains jre.
+=======================================================================
+JRE=java runtime environment.
+jre also a application.
+jre contains library files.
+lib contians jar files.
+jre provieds the all necessary resources for execution of a java program.
+jre contains jvm.
+===========================================================================
+jvm=java virtula machine
+jvm is translator which us to conveting byte-code to machine code.
+jvm continas jit(just in time).
+jit converts byte-code to machine code.
+===========================================================================
+javac=it is the of our java compiler.
+the comiler wil take the source code present in .java file as the input and checks for comile time error.
