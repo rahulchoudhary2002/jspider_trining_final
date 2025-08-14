@@ -8,7 +8,7 @@ class program16
 			for(int j=0; j<n; j++)
 			{
 				
-	            if(i%2==0 || j%2==1 )      //if(j%2==0)
+	            if(i%2==0 || j%2==1 || j==2)      //if(j%2==0)
 				{
 					System.out.print("*"+ " ");
 				}else
