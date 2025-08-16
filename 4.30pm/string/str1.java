@@ -4,6 +4,8 @@
 class str1{
 	public static void main(String[] args)
 	{
+		
+		
 		String str ="rahul choudhary rr";
 		System.out.println(str.charAt(4));
 		System.out.println(str.charAt(16));
@@ -32,8 +34,6 @@ class str1{
 	  System.out.println(str.indexOf('a'));	
       System.out.println(str.indexOf('b'));		
 
-		//lastOf()	  
-		String str3="karnataka";
-		System.out.println('t');
+		
 	}
 }
