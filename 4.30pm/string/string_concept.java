@@ -69,3 +69,23 @@ class string_concept
 		
 	}
 }
+
+/*class stringQuestion
+{
+	public static void main(String[] args)
+	{
+		//toUpperCase() method and toLowerCase() method is explain here
+		String str = "java_SE24";
+		System.out.println(str.toUpperCase());
+		System.out.println(str.toLowerCase());
+		
+		//
+		System.out.println(str.equals("java_SE24"));
+		System.out.println(str.equalsIgnoreCase("java_SE241"));
+	}
+}
+
+/*JAVA_SE24
+java_se24
+true
+false*/
