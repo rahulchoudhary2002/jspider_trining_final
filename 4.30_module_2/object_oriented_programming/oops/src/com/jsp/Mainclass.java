@@ -11,17 +11,4 @@ class Alpha{
    }
    
 }
-public class Mainclass {
-		
-		public static void main(String[] args) {
-			
-			System.out.println(Alpha.p);
-			Alpha.help();
-			System.out.println(Alpha.q);
-			Alpha.read();
-		}
-
-	}
-
-
-
+publ
