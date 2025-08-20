@@ -21,7 +21,7 @@ public class statNonstat {
 		System.out.println(utility.p);
 		System.out.println(ref.q);
 		utility.test();
-		ref.play();z
+		ref.play();
 	}
 
 }
