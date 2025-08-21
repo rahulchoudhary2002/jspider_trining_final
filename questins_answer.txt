@@ -20,3 +20,6 @@ jit converts byte-code to machine code.
 ===========================================================================
 javac=it is the of our java compiler.
 the comiler wil take the source code present in .java file as the input and checks for comile time error.
+================================================================================================================
+Q1.define a method to count number of odd digit present in the number?
+Q2.define a method to check the given number is spy number is not?
