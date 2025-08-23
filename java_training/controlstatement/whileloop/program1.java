@@ -11,6 +11,7 @@ class program1
 			a--;
 		}
 	}
+}
 
 /*
 int a=1;
