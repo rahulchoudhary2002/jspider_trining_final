@@ -29,7 +29,7 @@ class prime
 
 	public static void main(String[] args)
 	{
-		prime(12);	
+		prime(3);	
 	
 	}
 	
