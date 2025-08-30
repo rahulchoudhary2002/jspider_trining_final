@@ -1,6 +1,6 @@
 class Delta
 {
-    int num;
+     int num;
     void play(){
         System.out.println("executing play()...");
     }
