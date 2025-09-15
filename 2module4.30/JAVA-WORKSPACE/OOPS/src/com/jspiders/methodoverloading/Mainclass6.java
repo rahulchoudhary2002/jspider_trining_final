@@ -1,4 +1,8 @@
 package com.jspiders.methodoverloading;
+class Train{
+	
+}
+
 
 class Irctc
 {
@@ -14,6 +18,9 @@ class Irctc
 	{
 		System.out.println("search with PNR");
 	}
+	void search(Train tr) {
+		System.out.println("hello train");
+	}
 }
 public class Mainclass6 {
 
@@ -24,6 +31,8 @@ public class Mainclass6 {
 		tk.search(36373);
 		tk.search("kota","jaipur");
 		tk.search(393939334L);
+		
+		tk.search(new Train());
 	}
 
 }
