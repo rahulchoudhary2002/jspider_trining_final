@@ -1,9 +1,8 @@
 package com.jspiders.methodoverloading;
-class Train{
+class Train
+{
 	
 }
-
-
 class Irctc
 {
 	void search(int trainNo)
