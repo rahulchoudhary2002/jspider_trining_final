@@ -18,7 +18,7 @@ class Irctc
 public class Mainclass2 {
 
 	public static void main(String[] args) {
-Irctc ref=new Irctc();
+  Irctc ref=new Irctc();
 		
 		ref.search(36373);
 		ref.search("kota","jaipur");
