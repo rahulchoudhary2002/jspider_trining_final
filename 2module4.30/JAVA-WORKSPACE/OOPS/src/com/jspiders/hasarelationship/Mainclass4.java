@@ -1,4 +1,4 @@
-package com.jspiders.example;
+package com.jspiders.hasarelationship;
 class Camera
 {
 	void photo()
