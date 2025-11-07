@@ -9,12 +9,14 @@ public class Remove2 {
 		bag1.add("apple");
 		bag1.add("mango");
 		bag1.add("graps");
+		bag1.add("graps");
 		
 		ArrayList bag2=new ArrayList();
 		
 		bag2.add("jackFruit");
 		bag2.add("banana");
 		bag2.add("mango");
+		bag2.add("graps");
 		bag2.add("graps");
 		
 		System.out.println(bag1); 
