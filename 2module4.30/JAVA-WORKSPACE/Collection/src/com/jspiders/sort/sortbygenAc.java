@@ -1,5 +1,6 @@
-package com.jspiders.sort;
-
-public class sortbygenAc implements Comp {
-	
-}
+//package com.jspiders.sort;
+//
+//public class sortbygenAc implements Comp {
+//	
+//}
+////
